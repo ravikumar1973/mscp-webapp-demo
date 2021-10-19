@@ -11,6 +11,8 @@ phases:
       - mvn clean package
       - pwd
       - ls -l
+      - cp /codebuild/output/src867664419/src/target/mcms-webapp-0.0.1.war .
+      - ls
   post_build:
     commands:
       - echo "Entered the Post build"
