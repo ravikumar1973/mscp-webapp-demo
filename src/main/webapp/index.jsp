@@ -64,7 +64,7 @@
 	<section style= "float: left; margin: 0 1.5%;  font-size: 0.95em; width: 62%;  height: 80vh">	
 	
 	
-	<img src="webcontent.png" width="860" height="550"> <br>
+	<img src="webcontents.png" width="890" height="550"> <br>
 	
 	
 	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as changes are updated on the Git, the same is propagated to respective cluster. In this approach, entire estate of the client cluster is maintained in the GitHub as hierarchical Folder structure. This has been created in accordance with the hybrid cloud model and Infrastructure as a code.
