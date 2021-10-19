@@ -64,7 +64,7 @@
 	<section style= "float: left; margin: 0 1.5%;  font-size: 1.1em; width: 62%;  border: 1px solid black; height: 80vh">	
 	
 	
-	<img src="webcontents.png" width="1033" height="640" > <br>
+	<img src="webcontents.png" width="1030" height="640" > <br>
 	
 	
 	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as changes are updated on the Git, the same is propagated to respective cluster. In this approach, entire estate of the client cluster is maintained in the GitHub as hierarchical Folder structure. This has been created in accordance with the hybrid cloud model and Infrastructure as a code.
@@ -78,7 +78,7 @@
      <p> 
      <font color="#191970">
      <br>
-     &nbsp; &nbsp; Recommended Projects:-<br>
+     &nbsp; &nbsp; <b>Recommended Projects:-</b><br>
      &nbsp; &nbsp;1. Java:- <% out.print(string1); %><br>
      &nbsp; &nbsp;2. Go-Lang:- <% out.print(string2); %><br>
      &nbsp; &nbsp;3. Python:- <% out.print(string3); %><br>
@@ -86,7 +86,7 @@
 
 
      <br><br>
-     &nbsp; &nbsp;Team:-<br>
+     &nbsp; &nbsp;<b>Team:-</b>Team:-<br>
 	 &nbsp; &nbsp;1. Ravi Kumar<br>
 	 &nbsp; &nbsp;2. Mahantesh Meti<br>
 	 &nbsp; &nbsp;3. Vatsal Balde<br>
@@ -94,7 +94,7 @@
 	 &nbsp; &nbsp;5. Vishnu Reddy<br>
 	 &nbsp; &nbsp;6. Priyanka R<br> 
 	 <br><br>
-	 &nbsp; &nbsp;Tools:-<br>
+	 &nbsp; &nbsp;<b>Tools:-</b><br>
 	 &nbsp; &nbsp;1. <a href="https://www.atlassian.com/software/jira/agile">Jira:</a><br>
 	 &nbsp; &nbsp;2. <a href="https://www.jenkins.io">Jenkins</a><br>
 	 &nbsp; &nbsp;3. <a href="https://jfrog.com/#products">Jfrog Artifactory</a><br>
