@@ -8,14 +8,15 @@ phases:
   build:
     commands:
       - echo "Entered build phase"
-      - mvn clean prepare-package war:exploded
+      - mvn clean package
       - pwd
-      - ls -l target/mcms-webapp-0.0.1
+      - cp target/mcms-webapp-0.0.1.war .
+      - ls -l
   post_build:
     commands:
       - echo "Entered the Post build"
 
 artifacts:
   files:
-    - target/**/*
+    - mcms-webapp-0.0.1.war
  
