@@ -10,9 +10,7 @@ phases:
       - echo "Entered build phase"
       - mvn clean prepare-package war:exploded
       - pwd
-      - ls -l target
-      - cp target/mcms-webapp-0.0.1.war .
-      - ls
+      - ls -l target/mcms-webapp-0.0.1
   post_build:
     commands:
       - echo "Entered the Post build"
