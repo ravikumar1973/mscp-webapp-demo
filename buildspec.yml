@@ -9,6 +9,8 @@ phases:
     commands:
       - echo "Entered build phase"
       - mvn clean package
+      - pwd
+      - ls -l
   post_build:
     commands:
       - echo "Entered the Post build"
