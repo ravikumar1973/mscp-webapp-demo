@@ -1,0 +1,19 @@
+version: 0.2        
+phases:
+
+  pre_build:
+    commands:
+      - echo "Entered pre-build phase"
+      - echo "Wait for a while"
+  build:
+    commands:
+      - echo "Entered build phase"
+      - mvn clean package
+  post_build:
+    commands:
+      - echo "Entered the Post build"
+
+artifacts:
+  files:
+    - target/**/*
+ 
