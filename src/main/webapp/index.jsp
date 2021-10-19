@@ -88,10 +88,10 @@
      <br><br>
      &nbsp; &nbsp;Team:-<br>
 	 &nbsp; &nbsp;1. Ravi Kumar<br>
-	 &nbsp; &nbsp;2. Abishek Raj<br>
+	 &nbsp; &nbsp;2. Mahantesh Meti<br>
 	 &nbsp; &nbsp;3. Vatsal Balde<br>
 	 &nbsp; &nbsp;4. Keshav Mishra<br>
-	 &nbsp; &nbsp;5. Sidharta Singh<br>
+	 &nbsp; &nbsp;5. Vishnu Reddy<br>
 	 &nbsp; &nbsp;6. Priyanka R<br> 
 	 <br><br>
 	 &nbsp; &nbsp;Tools:-<br>
