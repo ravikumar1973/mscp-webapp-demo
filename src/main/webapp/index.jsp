@@ -61,19 +61,19 @@
 	<h3> Welcome to MCMS DevSecOps</h3>
     </section>
 
-	<section style= "float: left; margin: 0 1.5%;  font-size: 1.1em; width: 62%;  border: 1px solid black; height: 80vh">	
+	<section style= "float: left; margin: 0 1.5%;  font-size: 1.1em; width: 62%;  border: 1px solid lightgray; height: 80vh">	
 	
 	
 	<img src="webcontents.png" width="1030" height="640" > <br>
 	
 	
-	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as application codes are updated on the Git, the same is propagated to Kubernetes cluster. In this approach, GitHub acts as the SCM, followed by Jenkins CI and other tools for Build, Artifact, Tests etc.
-     The DevOps Automation Framework has been developed by MSCP Team of <a href="https://www.kyndryl.com">Kyndryl</a> comprising of Developers, SREs and Architects
+	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as application codes are updated on the Git, the same is propagated to Target Environment. In this approach, GitHub acts as the SCM, followed by Jenkins CI and other tools for Build, Artifact, Tests etc.
+     The DevOps Automation Framework has been developed by MSCP Team of <a href="https://www.kyndryl.com">Kyndryl</a> comprising of Developers, Architects and SREs as per the industry standard.
     </p>
 
     </section>
 	
-	<section style= "float: right; margin: 0 0%; background-color:#fff5ee; font-size: 1.15em; width: 34%; border: 1px solid black; height: 80vh">
+	<section style= "float: right; margin: 0 0%; background-color:#fff5ee; font-size: 1.15em; width: 34%; border: 1px solid lightgray; height: 80vh">
      <p> 
      <font color="#191970">
      <br>
