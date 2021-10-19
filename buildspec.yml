@@ -10,7 +10,7 @@ phases:
       - echo "Entered build phase"
       - mvn clean package
       - pwd
-      - cp target/mcms-webapp-0.0.1.war .
+      - cp -R target/* .
       - ls -l
   post_build:
     commands:
@@ -19,4 +19,6 @@ phases:
 artifacts:
   files:
     - mcms-webapp-0.0.1.war
+    - maven-archiver
+    - mcms-webapp-0.0.1
  
