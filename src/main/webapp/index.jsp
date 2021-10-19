@@ -67,9 +67,8 @@
 	<img src="webcontents.png" width="1030" height="640" > <br>
 	
 	
-	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as changes are updated on the Git, the same is propagated to respective cluster. In this approach, entire estate of the client cluster is maintained in the GitHub as hierarchical Folder structure. This has been created in accordance with the hybrid cloud model and Infrastructure as a code.
-     The Main Repo consists of folders like IKS, EKS AKS etc. Each of these have sub folders for environments like Dev, Test, Prod etc.
-     The complete Automation Framework has been developed by ISCP Team of <a href="https://ibm.com">IBM</a> comprising of few Developers, SREs and Architects
+	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as application codes are updated on the Git, the same is propagated to Kubernetes cluster. In this approach, GitHub acts as the SCM, followed by Jenkins CI and other tools for Build, Artifact, Tests etc.
+     The DevOps Automation Framework has been developed by MSCP Team of <a href="https://www.kyndryl.com">Kyndryl</a> comprising of Developers, SREs and Architects
     </p>
 
     </section>
@@ -78,7 +77,7 @@
      <p> 
      <font color="#191970">
      <br>
-     &nbsp; &nbsp; <b>Recommended Projects:-</b><br>
+     &nbsp; &nbsp;<b>Recommended Projects:-</b><br>
      &nbsp; &nbsp;1. Java:- <% out.print(string1); %><br>
      &nbsp; &nbsp;2. Go-Lang:- <% out.print(string2); %><br>
      &nbsp; &nbsp;3. Python:- <% out.print(string3); %><br>
@@ -86,7 +85,7 @@
 
 
      <br><br>
-     &nbsp; &nbsp;<b>Team:-</b>Team:-<br>
+     &nbsp; &nbsp;<b>Team:-</b><br>
 	 &nbsp; &nbsp;1. Ravi Kumar<br>
 	 &nbsp; &nbsp;2. Mahantesh Meti<br>
 	 &nbsp; &nbsp;3. Vatsal Balde<br>
