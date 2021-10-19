@@ -12,6 +12,7 @@ phases:
       - pwd
       - cp -R target/* .
       - mv mcms-webapp-0.0.1 mcms-webapp
+      - mv mcms-webapp-0.0.1.war mcms-webapp.war
       - ls -l
   post_build:
     commands:
@@ -19,7 +20,7 @@ phases:
 
 artifacts:
   files:
-    - mcms-webapp-0.0.1.war
+    - mcms-webapp.war
     - maven-archiver
     - mcms-webapp
  
