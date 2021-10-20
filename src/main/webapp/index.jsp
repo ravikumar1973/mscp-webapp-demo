@@ -67,7 +67,7 @@
 	<img src="webcontents.png" width="1030" height="640" > <br>
 	
 	
-	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as application codes are updated on the Git, the same is propagated to Target Environment. In this approach, GitHub acts as the SCM, followed by Jenkins CI and other tools for Build, Artifact, Tests etc.
+	<p>Summary: This is based on the Git-Ops Model, where Git is the single source of truth.  As soon as application codes are updated on the Git, the same is propagated to Target Environment. In this approach, GitHub acts as the SCM, followed by Jenkins CI and other tools for Build, Deploy, Artifact, Tests etc.
      The DevOps Automation Framework has been developed by MSCP Team of <a href="https://www.kyndryl.com">Kyndryl</a> comprising of Developers, Architects and SREs as per the industry standard.
     </p>
 
@@ -88,7 +88,7 @@
      &nbsp; &nbsp;<b>Team:-</b><br>
 	 &nbsp; &nbsp;1. Ravi Kumar<br>
 	 &nbsp; &nbsp;2. Mahantesh Meti<br>
-	 &nbsp; &nbsp;3. Vatsal Balde<br>
+	 &nbsp; &nbsp;3. Rahul Chenny<br>
 	 &nbsp; &nbsp;4. Keshav Mishra<br>
 	 &nbsp; &nbsp;5. Vishnu Reddy<br>
 	 &nbsp; &nbsp;6. Priyanka R<br> 
